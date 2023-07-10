@@ -1,8 +1,8 @@
 {
   "name": "to-do",
+  "homepage": "https://github.com/SurajSanyol/ToDo-App",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/SurajSanyol/Todo-App.github.io",
   "dependencies": {
     "@fortawesome/free-solid-svg-icons": "^6.4.0",
     "@fortawesome/react-fontawesome": "^0.2.0",
