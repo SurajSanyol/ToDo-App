@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/SurajSanyol/ToDo-App/static/css/main.0fa5f509.css",
+    "main.js": "/SurajSanyol/ToDo-App/static/js/main.f70b1286.js",
+    "index.html": "/SurajSanyol/ToDo-App/index.html",
+    "main.0fa5f509.css.map": "/SurajSanyol/ToDo-App/static/css/main.0fa5f509.css.map",
+    "main.f70b1286.js.map": "/SurajSanyol/ToDo-App/static/js/main.f70b1286.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0fa5f509.css",
+    "static/js/main.f70b1286.js"
+  ]
+}
